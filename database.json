@@ -1,0 +1,26 @@
+{
+    "usuarios":[
+        {
+            "usuario": "admin",
+            "contrasena": "admin123",
+            "nombre": "Jaime Zapata",
+            "id": 1
+          },
+          {
+            "usuario": "generico",
+            "contrasena": "12345",
+            "nombre": "Camila Suarez",
+            "id":2
+          }
+    ],
+    "envios" :[
+        {
+            "id": 1,
+            "usuarioId": 1,
+            "fecha_envio": "25-04-2025",
+            "origen": "Medellin",
+            "destino": "Bogota",
+            "estado": "En Transito"
+        }
+    ]
+}
